@@ -1,0 +1,27 @@
+{
+  "id": "33309aa5-df34-44a3-8e6d-d1822e4531f1",
+  "name": "ik wil een spel spelen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": "Battle Boats komt uit in 2020"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

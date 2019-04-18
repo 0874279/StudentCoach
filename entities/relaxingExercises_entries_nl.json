@@ -1,0 +1,41 @@
+[
+  {
+    "value": "bodyscan",
+    "synonyms": [
+      "bodyscan",
+      "Body scan",
+      "bodyopracht",
+      "body opdracht"
+    ]
+  },
+  {
+    "value": "check_in",
+    "synonyms": [
+      "check_in",
+      "Check in",
+      "Check-in",
+      "inchecken",
+      "checkin"
+    ]
+  },
+  {
+    "value": "mindfulness",
+    "synonyms": [
+      "Mindfulness",
+      "Ademhaling",
+      "Ademhalingsoefening",
+      "Ademhalings oefening",
+      "mindfulness"
+    ]
+  },
+  {
+    "value": "walking",
+    "synonyms": [
+      "walking",
+      "Loopoefening",
+      "loop",
+      "Loop oefening",
+      "Walk oefening"
+    ]
+  }
+]

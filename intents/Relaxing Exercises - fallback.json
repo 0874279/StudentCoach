@@ -1,0 +1,41 @@
+{
+  "id": "170e21a7-127e-4f63-ba87-191ddc39338e",
+  "parentId": "4385dfbb-c503-4adb-98a7-ed132ded7777",
+  "rootParentId": "4385dfbb-c503-4adb-98a7-ed132ded7777",
+  "name": "Relaxing Exercises - fallback",
+  "auto": false,
+  "contexts": [
+    "RelaxingExercises-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RelaxingExercises.RelaxingExercises-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "textToSpeech": "De oefening is afgelopen. Goed gewerkt! Wil je nog iets anders doen? Zeg opties als je wilt weten wat ik allemaal kan."
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189125815,
+  "fallbackIntent": true,
+  "events": []
+}

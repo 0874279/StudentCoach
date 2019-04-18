@@ -1,0 +1,388 @@
+[
+  {
+    "id": "3ab2abdc-1c06-4cc1-9e00-9a0b93483b76",
+    "data": [
+      {
+        "text": "Ik wil graag ",
+        "userDefined": false
+      },
+      {
+        "text": "mindfulness",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19344451-bb67-4b02-8021-de6de11392df",
+    "data": [
+      {
+        "text": "walking",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      },
+      {
+        "text": " oefening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c2f5350-0849-4225-8b80-f8d7c1f12123",
+    "data": [
+      {
+        "text": "walking",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51123727-0635-4df2-b7c5-5a2c122fb879",
+    "data": [
+      {
+        "text": "Kan je ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "loopoefening",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      },
+      {
+        "text": " opstarten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa123559-e692-4498-a0a7-0555eb40dedd",
+    "data": [
+      {
+        "text": "Ik kan mij niet focussen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e147d767-114f-47dd-a9d7-849f5e8d159e",
+    "data": [
+      {
+        "text": "Ik heb even rust nodig.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d189cc3a-71e5-44d2-8414-eef6b90532ae",
+    "data": [
+      {
+        "text": "start ",
+        "userDefined": false
+      },
+      {
+        "text": "loopoefening",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eba0ac75-f525-490c-b434-16033d7ecd6f",
+    "data": [
+      {
+        "text": "Kan je ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mindfulness",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      },
+      {
+        "text": " oefening afspelen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "242e0ae2-bd83-4116-b5ac-bcaefea8d234",
+    "data": [
+      {
+        "text": "begin ",
+        "userDefined": false
+      },
+      {
+        "text": "checkin",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d53c34aa-368d-43fc-addc-e246a96db577",
+    "data": [
+      {
+        "text": "Ik wil ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mindfulness",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      },
+      {
+        "text": " oefening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efe2c09c-d2c9-4c0b-8a0c-2328f22d3c31",
+    "data": [
+      {
+        "text": "begin ",
+        "userDefined": false
+      },
+      {
+        "text": "loop",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      },
+      {
+        "text": " opdracht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c681f131-162b-4c24-a5a7-96c7cf084417",
+    "data": [
+      {
+        "text": "Ik wil even tot rust komen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "390aa163-f83e-449b-a911-89316ff195ba",
+    "data": [
+      {
+        "text": "start ",
+        "userDefined": false
+      },
+      {
+        "text": "check-in",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c10435a6-8f50-4edd-88a4-220b89c16741",
+    "data": [
+      {
+        "text": "Kan je me ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " concentratie boost geven?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c65866d-50e5-4c92-9dde-ef7e567fefe7",
+    "data": [
+      {
+        "text": "Ik heb ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " concentratie boost nodig.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6f3edab-ef72-41d6-b434-87da891a0cc4",
+    "data": [
+      {
+        "text": "Ik wil graag ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ademhalingsoefening",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ea1b0f6-0f2e-4845-919c-ad96117e443e",
+    "data": [
+      {
+        "text": "Kan je me helpen met concentreren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41b00d17-0e3e-44e7-9fa1-1c9395c5c405",
+    "data": [
+      {
+        "text": "Ik ben even ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " concentratie kwijt.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1bf51068-d8a6-4296-881c-485632d20f2d",
+    "data": [
+      {
+        "text": " begin ",
+        "userDefined": false
+      },
+      {
+        "text": "loopoefening",
+        "alias": "type",
+        "meta": "@relaxingExercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66ff4e31-1a58-4a45-a205-ecf3b8ceda02",
+    "data": [
+      {
+        "text": "Kan je me helpen met relaxen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9213afb5-4343-47b7-b652-dcbc0fe04b1a",
+    "data": [
+      {
+        "text": "Ik kan mij niet concentreren.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "193ac9ca-5e84-4977-9e47-0c37dd9408e0",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "textToSpeech": "Hallo, ik ben Student Coach. Ik ben sterk gericht op het creëren van sfeer en een gevoel van saamhorigheid. Ik zorg ervoor dat de motivatie en de workflow niet afsterft. Zeg functies, als je wilt weten wat ik allemaal kan doen."
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

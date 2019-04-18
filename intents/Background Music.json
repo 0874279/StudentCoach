@@ -1,0 +1,61 @@
+{
+  "id": "cb86012a-e5b2-4b82-99b5-056406453e61",
+  "name": "Background Music",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1be2112b-32f2-45ee-a806-44d745606208",
+          "required": false,
+          "dataType": "@achtergrondmuziek",
+          "name": "achtergrondmuziek",
+          "value": "$achtergrondmuziek",
+          "prompts": [],
+          "defaultValue": "false",
+          "isList": false
+        },
+        {
+          "id": "7aa5b29a-1a9b-44c8-8769-620f5a7984a4",
+          "required": true,
+          "dataType": "@achtergrondmuziek",
+          "name": "soortachtergrondmuziek",
+          "value": "$soortachtergrondmuziek",
+          "prompts": [
+            {
+              "lang": "nl",
+              "value": "Wat voor soort achtergrond muziek wil je?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "05781b9e-e117-4078-be00-05d434d09069",
+          "required": false,
+          "dataType": "@optiesstuderen",
+          "name": "optiesstuderen",
+          "value": "$optiesstuderen",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "ssml": "\u003cspeak\u003eWij spelen nu natuur achtergrond muziek af\n\u003caudio src\u003d\"https://firebasestorage.googleapis.com/v0/b/studiecoach-b5abe.appspot.com/o/Relaxing%20Nature%20Sounds-Birdsong-Sound%20of%20Nature%20Relaxation-Birds%20Singing-Johnnie%20Lawson%20Meditation.wav?alt\u003dmedia\u0026amp;token\u003d8b5d77f6-f2c8-4cea-9aba-7070af8e8ede\n\" \u003e\n\u003c/audio\u003e\n\u003c/speak\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2cd88cde-799d-4da3-a7a1-956456c68cea",
+  "name": "Explanation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": "Dat doe ik door middel van een Pomodoro Timer,  achtergrondmuziek of een motiverende spreuk."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

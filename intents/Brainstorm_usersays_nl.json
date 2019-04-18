@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0baa949d-bb4e-42b1-8b62-b8f326d451a9",
+    "data": [
+      {
+        "text": "hoe doe je ",
+        "userDefined": false
+      },
+      {
+        "text": "brainstormen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df2d200b-0f28-4578-9c78-d425ab927883",
+    "data": [
+      {
+        "text": "Hoe werkt ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " brainstormsessie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a42fd85-8ac8-4e99-8424-4cd7d7f1468f",
+    "data": [
+      {
+        "text": "Brainstormen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

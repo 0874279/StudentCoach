@@ -1,0 +1,79 @@
+[
+  {
+    "id": "b2a29b02-80d7-4e31-b3d7-e24ff725ffb7",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c33386fa-c4b7-4770-bb55-06284ea69d79",
+    "data": [
+      {
+        "text": "doei",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "005f11c8-3e2a-4e73-b027-75181aeac734",
+    "data": [
+      {
+        "text": "afsluiten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2d8f6f9-d6dd-498b-a449-357c64f1bfbe",
+    "data": [
+      {
+        "text": "ik wil stoppen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b54da67-3025-40ed-8a06-61843fe0ab1d",
+    "data": [
+      {
+        "text": "stoppen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2166c353-2d33-45d7-b7ae-0e2ae24e2aa2",
+    "data": [
+      {
+        "text": "nee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b19b622-a7d4-418d-9dc6-a0516b505316",
+    "data": [
+      {
+        "text": "afspelen stoppen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

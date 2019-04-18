@@ -1,0 +1,27 @@
+{
+  "id": "66585cf5-d000-43e0-b5c6-e029fbe092f5",
+  "name": "Options",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": "Op dit moment kan ik achtergrondmuziek afspelen, een Pomodoro timer starten, ontspanningsoefeningen doen en je een motivatie boost geven. Wat wil je doen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

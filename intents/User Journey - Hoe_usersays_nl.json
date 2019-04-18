@@ -1,0 +1,33 @@
+[
+  {
+    "id": "b1c803b4-ce1b-4eb8-b484-5b22a6a0e491",
+    "data": [
+      {
+        "text": "user journey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c78fc36-0824-4135-baed-82ea0b860bcb",
+    "data": [
+      {
+        "text": "hoe maak je ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " user journey?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

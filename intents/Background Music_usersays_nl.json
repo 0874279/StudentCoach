@@ -1,0 +1,59 @@
+[
+  {
+    "id": "255d29a5-4353-40b4-9821-3870f90cc17f",
+    "data": [
+      {
+        "text": "ik wil ",
+        "userDefined": false
+      },
+      {
+        "text": "natuur",
+        "alias": "soortachtergrondmuziek",
+        "meta": "@achtergrondmuziek",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "achtergrond muziek",
+        "alias": "optiesstuderen",
+        "meta": "@optiesstuderen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0cad7a3c-e415-4ba2-9386-9dd32f50b042",
+    "data": [
+      {
+        "text": "achtergrond muziek",
+        "alias": "optiesstuderen",
+        "meta": "@optiesstuderen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ebaa102-0cde-40b5-a68a-47ec0309e69a",
+    "data": [
+      {
+        "text": "ik wil ",
+        "userDefined": false
+      },
+      {
+        "text": "achtergrond muziek",
+        "alias": "achtergrondmuziek",
+        "meta": "@achtergrondmuziek",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

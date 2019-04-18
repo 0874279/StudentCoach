@@ -1,0 +1,27 @@
+{
+  "id": "f0bebee7-342d-4520-9800-56f2df08ab41",
+  "name": "User Journey - Hoe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": "Verdeel de service in contactpunten: alle punten waarop de gebruiker op welke manier dan ook in contact komt met het bedrijf of de service. Visualiseer op een creatieve manier hoe de gebruiker door de service reist, door een \u0027dramatische boog\u0027 van positieve en minder positieve ervaringen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

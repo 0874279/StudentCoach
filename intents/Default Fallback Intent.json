@@ -1,0 +1,27 @@
+{
+  "id": "b42ba3c8-3ac8-4e9b-93f2-a45b36809a1d",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": "Sorry, ik begrijp het niet. Wil je een Pomodoro timer, achtergrondmuziek of een motiverende spreuk?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

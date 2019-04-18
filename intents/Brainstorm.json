@@ -1,0 +1,29 @@
+{
+  "id": "973d90cc-cede-467e-8094-383bcb7a1168",
+  "name": "Brainstorm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": "Uitgangspunt van een succesvolle brainstorm is dat elk idee op tafel gelegd kan worden. Kwantiteit is minstens zo belangrijk als kwaliteit. Ook ideeën die op het eerste oog niet realistisch lijken, kunnen bijdragen aan de brainstorm. Juist ongebruikelijke ideeën kunnen nieuwe inzichten opleveren."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

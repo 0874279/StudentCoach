@@ -1,0 +1,48 @@
+{
+  "id": "4385dfbb-c503-4adb-98a7-ed132ded7777",
+  "name": "Relaxing Exercises",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "RelaxingExercises-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "40d26bd3-7f79-47a0-b1be-c421fa31a2a4",
+          "required": true,
+          "dataType": "@relaxingExercises",
+          "name": "type",
+          "value": "$type",
+          "prompts": [
+            {
+              "lang": "nl",
+              "value": "Ik heb meerdere ademhalingsoefeningen beschikbaar. Je kunt kiezen tussen Mindfullness, nog een optie en nog een optie. Wat wil je doen?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

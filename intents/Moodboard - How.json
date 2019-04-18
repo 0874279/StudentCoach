@@ -1,0 +1,29 @@
+{
+  "id": "71a0d643-4189-4de7-bb14-02d1148190ca",
+  "name": "Moodboard - How",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": "Maak een fysieke of digitale collage van afbeeldingen, typografie en een kleurenschema om \u0027donzige\u0027 dingen te beschrijven, zoals de \u0027gemoedstoestand\u0027, \u0027voel\u0027 of andere kernconcepten die je wilt dat je product heeft. De afbeeldingen zijn vaak verzameld uit tijdschriften of visuele ontdekkingstools zoals Pinterest."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

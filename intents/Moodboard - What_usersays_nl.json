@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fd3c680d-1535-45bb-9472-c9aed58edade",
+    "data": [
+      {
+        "text": "Wat is ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Moodboard?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93b3f002-5707-41d5-badd-f8a2b33cad73",
+    "data": [
+      {
+        "text": "Wat heb ik nodig om een Moodboard te maken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb9fe396-a71a-4fc7-8587-4a4b7df6cad3",
+    "data": [
+      {
+        "text": "Wat heb ik nodig bij het maken van een Moodboard.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "value": "water",
+    "synonyms": [
+      "water",
+      "watergeluiden",
+      "riviergeluid"
+    ]
+  },
+  {
+    "value": "shake it off",
+    "synonyms": [
+      "shake it off",
+      "vrolijke muziek",
+      "los schudden"
+    ]
+  },
+  {
+    "value": "piano",
+    "synonyms": [
+      "piano",
+      "pianomuziek"
+    ]
+  },
+  {
+    "value": "vogelgeluiden",
+    "synonyms": [
+      "relax muziek",
+      "regenwoud",
+      "vogelzang",
+      "natuur",
+      "vogelgeluiden",
+      "vogel"
+    ]
+  },
+  {
+    "value": "lofi",
+    "synonyms": [
+      "lofi",
+      "lofi",
+      "chill muziek"
+    ]
+  },
+  {
+    "value": "regen",
+    "synonyms": [
+      "regen",
+      "regen",
+      "regen en onweer"
+    ]
+  }
+]

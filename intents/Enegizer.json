@@ -1,0 +1,40 @@
+{
+  "id": "66525704-ce30-4bf3-98f8-77920d54b15b",
+  "name": "Enegizer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": [
+            "Komop, ga nog even door!",
+            "Je bent de beste!",
+            "Ga voor die voldoende! Je kan het.",
+            "Probeer er met je hoofd bij te blijven.",
+            "Hou nog even vol",
+            "Je bent lekker bezig!",
+            "Houd je hoofd nog even bij de les, denk aan je doelen!",
+            "Probeer je nog even te concentreren, je bent er bijna!",
+            "Laat je niet afleiden, je kan het!",
+            "Als je nog even doorwerkt, hoef je later minder te werken. Ga door!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

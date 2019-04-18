@@ -1,0 +1,45 @@
+{
+  "id": "892e767e-53e8-4922-97c9-3f200ea18dd4",
+  "name": "Pomodoro Timer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "PomodoroTimer-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9bd4effd-19ea-485b-89ae-5b4664144214",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "minutes",
+          "value": "$minutes",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "textToSpeech": "Oke, start!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "a600a598-9c5e-4994-93c4-bfdbdf192d27",
+  "name": "Moodboard - What",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": "De Ingrediënten van een Moodboard zijn: Papier, tijdschriften, lijm of digitaal programma. Een bereidheid om intuïtief te werken, te verzamelen en te beslissen."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
